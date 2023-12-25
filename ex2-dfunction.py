@@ -23,3 +23,4 @@ for increment in range(0, 7):
     x, y = x*COS_theta - y*SIN_theta, x*SIN_theta + y*COS_theta
 
 print(" second commit- The program run successfully and there are no error.")
+print(" pull commit- The program run successfully and there are no error.")
